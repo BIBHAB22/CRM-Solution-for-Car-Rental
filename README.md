@@ -177,7 +177,7 @@ The project has been thoroughly tested through:
 ## **Documentation**
 
 For a detailed description of the project, including objectives, key features, and testing, refer to the project documentation:
-📝 [Project Documentation](#)
+📝 [Project Documentation](https://docs.google.com/document/d/1F0exULvFkEXaO_ToIt6DtzpvKvlao0Ilu27NgbbxRzk/edit?usp=sharing)
 
 ## **Video Link**
 For a detailed demonstration video click here: 🎥 [Video Demo](#)
