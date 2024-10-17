@@ -1,7 +1,3 @@
-Here's a **README** file for your **Car Rental CRM** project, inspired by the style and content of the provided document:
-
----
-
 # **Car Rental CRM Project**
 
 This project is a **Car Rental CRM** application developed using Salesforce to streamline and automate the car rental process. The application includes features for managing customers, car bookings, billing, and automated reminders for overdue payments, providing an efficient solution for car rental businesses.
