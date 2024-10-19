@@ -180,7 +180,7 @@ For a detailed description of the project, including objectives, key features, a
 📝 [Project Documentation](https://docs.google.com/document/d/1F0exULvFkEXaO_ToIt6DtzpvKvlao0Ilu27NgbbxRzk/edit?usp=sharing)
 
 ## **Video Link**
-For a detailed demonstration video click here: 🎥 [Video Demo](#)
+For a detailed demonstration video click here: 🎥 [Video Demo](https://drive.google.com/file/d/1OERC1AkxQZA68Wwx7L8YcdI3GKTH4C52/view?usp=sharing)
 
 ---
 
